@@ -5,7 +5,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="fill_horizontal"
         android:layout_marginLeft="10dp"
-        android:text="note"
+        android:text="note not a note"
         android:textSize="12sp">
 
 </TextView>
